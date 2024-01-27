@@ -15,7 +15,6 @@
 
 <script setup>
 import * as THREE from 'three';
-//import { data } from '/js/data.js?url';
 import vertexShader from '/shaders/vertex.glsl?url&raw';
 import fragmentShader from '/shaders/fragment.glsl?url&raw';
 
